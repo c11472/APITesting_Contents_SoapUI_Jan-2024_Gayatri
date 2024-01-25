@@ -1,0 +1,9 @@
+Postman Learning Center Contents :
+
+HTTP Requests Methods :
+
+https://www.bigin.com/developer/docs/apis/v2/request-methods.html
+
+Status-Codes :
+
+https://www.bigin.com/developer/docs/apis/v2/status-codes.html
